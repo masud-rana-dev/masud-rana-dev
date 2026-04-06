@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Masud Rana – Full Stack WordPress Developer (Remote, Singapore)
+# 👋 Hi, I'm Masud Rana - Full Stack WordPress Developer (Remote, Singapore)
 
 ## 💻 About Me
-I am a dedicated **Full Stack WordPress Developer** working full-time remotely for a Singapore-based education & coaching center. With years of experience in building dynamic websites, custom themes, and plugins, I specialize in delivering scalable, user-friendly, and business-driven solutions. My expertise spans both front-end and back-end development, ensuring seamless performance and engaging user experiences.
+I am a dedicated **Full Stack WordPress Developer** working full-time remotely for a Singapore-based education center. With years of experience in building dynamic websites, custom themes, and plugins, I specialize in delivering scalable, user-friendly, and business-driven solutions. My expertise spans both front-end and back-end development, ensuring seamless performance and engaging user experiences.
 
 Whether it's optimizing speed, enhancing UX/UI, or integrating third-party APIs, I thrive on solving complex problems and creating impactful digital products.
 
@@ -9,12 +9,12 @@ Whether it's optimizing speed, enhancing UX/UI, or integrating third-party APIs,
 - **WordPress Development:** Custom themes, plugins, Gutenberg blocks  
 - **Front-end:** HTML5, CSS3, JavaScript (jQuery)  
 - **Back-end:** PHP, MySQL, REST API, WooCommerce  
-- **Tools & Platforms:** Git, Docker, cPanel, Elementor  
+- **Tools & Platforms:** Git, Docker, cPanel, Elementor, VSCode  
 - **Optimization:** Speed, SEO, and security enhancements  
 
 ## 🚀 What I Love Doing
 - Transforming ideas into responsive websites and engaging UIs  
-- Developing custom plugins for WooCommerce and membership platforms  
+- Developing custom plugins for any requirements of website projects 
 - Performance tuning, bug fixing, and automation workflows  
 - Collaborating with designers, marketers, and clients to deliver tailored solutions  
 
